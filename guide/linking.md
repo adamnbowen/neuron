@@ -21,7 +21,7 @@ linked zettel when using the wiki-link syntax.
 Neuron supports branching links, which can be created using `[[[..]]]`:
 
 ```
-This is a zettel file, which links (branches of) to another zettel:
+This is a zettel file, which links (branches off) to another zettel:
 
 * [[[ef3dke98]]]
 ```
